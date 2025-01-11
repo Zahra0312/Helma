@@ -45,7 +45,7 @@ jspm_packages/
 typings/
 
 #TypeScript cache
-*.tsbuildinfo
+*tsbuildinfo
 
 #Optional npm cache directory
 .npm
@@ -55,7 +55,7 @@ typings/
 
 # Microbundle cache
 .rpt2_cache/
-.rts2_cache_cjs//
+.rts2_cache_cjs/
 .rts2_cache_es/
 .rts2_cache_umd//
 
@@ -65,7 +65,7 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
-# Yarn Integrity file
+#Yarn Integrity file
 .yarn-integrity
 
 # dotenv environment variables file
