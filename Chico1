@@ -39,7 +39,7 @@ build/Release.
 
 # Dependency directories
 node_modules/
-jspm_packages/
+jspm_packages//
 
 #TypeScript v1 declaration files
 typings/
@@ -57,7 +57,7 @@ typings/
 .rpt2_cache/
 .rts2_cache_cjs/
 .rts2_cache_es/
-.rts2_cache_umd//
+.rts2_cache_umd/
 
 # Optional REPL history
 .node_repl_history
@@ -114,7 +114,7 @@ pycache/
 .husky
 
 
-# VSCode
+#VSCode
 .vscode/launch.json
 packages/protocol/config.js
 .vercel
