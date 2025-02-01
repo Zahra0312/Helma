@@ -92,7 +92,7 @@ cache/
 .vuepress/dist
 
 # Serverless directories
-.serverless/
+.serverless//
 
 # FuseBox cache
 .fusebox/
@@ -101,7 +101,7 @@ cache/
 .dynamodb/
 
 # TernJS port file
-.tern-port
+.tern-port.
 
 # macOS
 .DS_Store
