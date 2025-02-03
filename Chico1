@@ -75,7 +75,7 @@ typings/
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 
-# Next.js build output.
+# Next.js build output
 .next
 
 # Nuxt.js build / generate output
@@ -116,5 +116,5 @@ pycache
 
 #VSCode
 .vscode/launch.json
-packages/protocol/config.js
+packages/protocol/config.js/
 .vercel
