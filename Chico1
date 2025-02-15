@@ -11,7 +11,7 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 #Runtime data
 pids
-*.pid*
+*.pid**
 *.seed
 *pid.lock
 
@@ -31,7 +31,7 @@ coverage
 #Bower dependency directory (https://bower.io/)
 bower_components
 
-# node-waf configuration
+# node-waf configuration------------
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
